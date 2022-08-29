@@ -43,3 +43,7 @@ h1 {
   margin-bottom: 0px;
   color: orange;
 }
+
+#pintaBot {
+  transform: rotate(180deg);
+}
